@@ -1,0 +1,7 @@
+{
+   "id" : "BootboxJS",
+   "version" : "4.4.0",
+   "description" : "The lightweight PHP class for detecting mobile devices (including tablets).",
+   "categories" : ["bootstrap", "confirm", "alert", "prompt", "window", "dialog", "responsive", "jquery"],
+   "compatible_from" : "2017.1"
+}
